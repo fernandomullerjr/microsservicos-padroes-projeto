@@ -69,3 +69,29 @@ git status
 [05:56] Então poderíamos nos dar ao luxo de escolher tecnologias específicas para cada problemas, mas se temos um projeto só, isso se torna muito mais difícil. De novo, claro que existem formas de contornar, mas via de regra somos presos a uma única tecnologia.
 
 [06:11] Então a forma como normalmente criamos soluções para a web tem alguns problemas. E exatamente quando esses problemas aparecem é que vamos ver a solução da arquitetura de microsserviços. Então já entendemos como funciona a web, os problemas de uma aplicação monolítica, agora vamos entender o que são microsserviços, mas no próximo vídeo.
+
+
+
+
+
+
+
+
+
+
+
+# ############################################################################################################
+# ############################################################################################################
+# ############################################################################################################
+# ############################################################################################################
+# ############################################################################################################
+# 02 Como a Web funciona
+
+
+## Monolito
+
+### Problemas
+
+1. Demora no deploy
+2. Falhas podem derrubar o sistema inteiro.
+3. 1 Projeto = 1 tecnologia
